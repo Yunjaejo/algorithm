@@ -26,3 +26,12 @@ https://programmers.co.kr/learn/courses/30/lessons/12947
 
 없는숫자 더하기
 https://programmers.co.kr/learn/courses/30/lessons/86051
+
+직사각형 별찍기
+https://programmers.co.kr/learn/courses/30/lessons/12969
+
+핸드폰번호 가리기
+https://programmers.co.kr/learn/courses/30/lessons/12948
+
+약수의 합
+https://programmers.co.kr/learn/courses/30/lessons/12928
