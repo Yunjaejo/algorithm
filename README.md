@@ -35,3 +35,13 @@ https://programmers.co.kr/learn/courses/30/lessons/12948
 
 약수의 합
 https://programmers.co.kr/learn/courses/30/lessons/12928
+
+문자열 다루기 기본
+https://programmers.co.kr/learn/courses/30/lessons/12918
+
+문자열 내 p와 y의 개수
+https://programmers.co.kr/learn/courses/30/lessons/12916
+
+문자열 내맘대로 정렬하기
+https://programmers.co.kr/learn/courses/30/lessons/12915
+
