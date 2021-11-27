@@ -1,0 +1,3 @@
+def solution(seoul):
+    n = seoul.index('Kim')  # List.index('blah') : List 에서 blah 의 인덱스 값(위치)을 찾아 줌. ex) 0, 1, 2, 3 ...
+    return '김서방은 ' + str(n) + '에 있다'  # index() 로 뽑은 n은 int 이기에 문자열로 바꾸어 더함.
