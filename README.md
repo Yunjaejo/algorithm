@@ -45,3 +45,11 @@ https://programmers.co.kr/learn/courses/30/lessons/12916
 문자열 내맘대로 정렬하기
 https://programmers.co.kr/learn/courses/30/lessons/12915
 
+자연수 뒤집어 배열로 만들기
+https://programmers.co.kr/learn/courses/30/lessons/12932
+
+제일 작은 수 제거하기
+https://programmers.co.kr/learn/courses/30/lessons/12935
+
+콜라츠 추측
+https://programmers.co.kr/learn/courses/30/lessons/12943
