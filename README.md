@@ -66,3 +66,6 @@ https://www.acmicpc.net/problem/1296
 
 핸드폰 요금(1267)
 https://www.acmicpc.net/problem/1267
+
+소수 구하기(1929)
+https://www.acmicpc.net/problem/1929
