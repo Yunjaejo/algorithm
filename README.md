@@ -63,3 +63,6 @@ https://www.acmicpc.net/problem/1964
 
 팀 이름 정하기(1296)
 https://www.acmicpc.net/problem/1296
+
+핸드폰 요금(1267)
+https://www.acmicpc.net/problem/1267
