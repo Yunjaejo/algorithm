@@ -1,6 +1,5 @@
 # algorithm
-프로그래머스 알고리즘
-
+## 프로그래머스
 ### level 1
 
 로또의 최고순위와 최저순위
@@ -53,3 +52,8 @@ https://programmers.co.kr/learn/courses/30/lessons/12935
 
 콜라츠 추측
 https://programmers.co.kr/learn/courses/30/lessons/12943
+
+## 백준
+
+저항(1076)
+https://www.acmicpc.net/problem/1076
