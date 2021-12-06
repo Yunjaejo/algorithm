@@ -57,3 +57,9 @@ https://programmers.co.kr/learn/courses/30/lessons/12943
 
 저항(1076)
 https://www.acmicpc.net/problem/1076
+
+오각형, 오각형, 오각형(1964)
+https://www.acmicpc.net/problem/1964
+
+팀 이름 정하기(1296)
+https://www.acmicpc.net/problem/1296
