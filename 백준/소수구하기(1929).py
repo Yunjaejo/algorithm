@@ -13,4 +13,4 @@ def get_prime(m, n):
             print(i)
 
 
-is_prime(m, n)
+get_prime(m, n)
