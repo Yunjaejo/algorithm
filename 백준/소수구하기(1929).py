@@ -1,7 +1,7 @@
 m, n = map(int, input().split())
 
 
-def is_prime(m, n):
+def get_prime(m, n):
     n = n + 1  # n 까지 세야하니까
     prime = [True] * n  # n개의 True 배열 생성
     for i in range(2, int(n ** 0.5) + 1):  # n의 제곱근 까지만 검사
