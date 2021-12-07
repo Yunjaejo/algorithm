@@ -85,3 +85,6 @@ https://www.acmicpc.net/problem/1110
 베르트랑 공준(4948)
 https://www.acmicpc.net/problem/4948
 
+터렛(1002)
+https://www.acmicpc.net/problem/1002
+
