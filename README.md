@@ -75,3 +75,6 @@ https://www.acmicpc.net/problem/2839
 
 달팽이는 올라가고 싶다.(2869)
 https://www.acmicpc.net/problem/2869
+
+ACM호텔(10250)
+https://www.acmicpc.net/problem/10250
