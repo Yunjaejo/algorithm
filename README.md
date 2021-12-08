@@ -98,3 +98,11 @@ https://www.acmicpc.net/problem/4948
 터렛(1002)
 https://www.acmicpc.net/problem/1002
 
+스택(10828)
+https://www.acmicpc.net/problem/10828
+
+제로(10773)
+https://www.acmicpc.net/problem/10773
+
+괄호(9012)
+https://www.acmicpc.net/problem/9012
