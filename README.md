@@ -1,4 +1,7 @@
 # algorithm
+
+<hr>
+
 ## 프로그래머스
 ### level 1
 
@@ -52,6 +55,13 @@ https://programmers.co.kr/learn/courses/30/lessons/12935
 
 콜라츠 추측
 https://programmers.co.kr/learn/courses/30/lessons/12943
+
+### level 2
+
+방금그곡
+https://programmers.co.kr/learn/courses/30/lessons/17683
+
+<hr>
 
 ## 백준
 
