@@ -121,3 +121,10 @@ https://www.acmicpc.net/problem/1927
 
 스택 수열(1974)
 https://www.acmicpc.net/problem/1974
+
+회전하는 큐(1021)
+https://www.acmicpc.net/problem/1021
+
+요세푸스 문제(11866)
+https://www.acmicpc.net/problem/11866
+
