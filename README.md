@@ -106,3 +106,8 @@ https://www.acmicpc.net/problem/10773
 
 괄호(9012)
 https://www.acmicpc.net/problem/9012
+
+균형잡힌 세상(4949)
+https://www.acmicpc.net/problem/4949
+
+
