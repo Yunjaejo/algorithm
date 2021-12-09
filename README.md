@@ -110,4 +110,6 @@ https://www.acmicpc.net/problem/9012
 균형잡힌 세상(4949)
 https://www.acmicpc.net/problem/4949
 
+큐2(18258)
+https://www.acmicpc.net/problem/18258
 
