@@ -131,3 +131,17 @@ https://www.acmicpc.net/problem/1021
 요세푸스 문제(11866)
 https://www.acmicpc.net/problem/11866
 
+약수(1037)
+https://www.acmicpc.net/problem/1037
+
+최소공배수(1934)
+https://www.acmicpc.net/problem/1934
+
+최대공약수와 최소공배수(2609)
+https://www.acmicpc.net/problem/2609
+
+잃어버린 괄호(1541)
+https://www.acmicpc.net/problem/1541
+
+동전 0(11047)
+https://www.acmicpc.net/problem/11047
