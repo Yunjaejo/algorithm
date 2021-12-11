@@ -145,3 +145,7 @@ https://www.acmicpc.net/problem/1541
 
 동전 0(11047)
 https://www.acmicpc.net/problem/11047
+
+ATM(11399)
+https://www.acmicpc.net/problem/11399
+
