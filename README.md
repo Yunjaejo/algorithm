@@ -149,3 +149,8 @@ https://www.acmicpc.net/problem/11047
 ATM(11399)
 https://www.acmicpc.net/problem/11399
 
+블랙잭(2798)
+https://www.acmicpc.net/problem/2798
+
+분해합(2231)
+https://www.acmicpc.net/problem/2231
