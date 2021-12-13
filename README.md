@@ -160,3 +160,6 @@ https://www.acmicpc.net/problem/1003
 
 파도반 수열(9461)
 https://www.acmicpc.net/problem/9461
+
+RGB 거리(1149)
+https://www.acmicpc.net/problem/1149
