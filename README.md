@@ -1,5 +1,11 @@
 # algorithm
 
+REMIND 211216
+
+k번째 수(1300)
+https://www.acmicpc.net/problem/1300
+
+이분탐색을 사용하여 다시 풀기.
 <hr>
 
 ## 프로그래머스
