@@ -163,3 +163,6 @@ https://www.acmicpc.net/problem/9461
 
 RGB 거리(1149)
 https://www.acmicpc.net/problem/1149
+
+좌표 정렬하기 2(11651)
+https://www.acmicpc.net/problem/11651
