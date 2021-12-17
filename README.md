@@ -175,6 +175,3 @@ https://www.acmicpc.net/problem/11651
 
 통계학(2108)
 https://www.acmicpc.net/problem/2108
-
-k번째 수(1300)
-https://www.acmicpc.net/problem/1300
