@@ -1,8 +1,8 @@
 def solution(s):
+    answer = ''
     s = s.lower()
-    word = s.split()
-    for i in range(len(word)):
-        word[i] = word[i][0].upper() + word[i][1:]
-
-    answer = ' '.join(word)
-    return answer
+    word = s.split(' ')
+    for w in word:
+        w = w.capitalize()
+        answer = answer + w + ' '
+    return answer[:-1]
