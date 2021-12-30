@@ -1,13 +1,5 @@
 # algorithm
 
-REMIND 211216
-
-k번째 수(1300)
-https://www.acmicpc.net/problem/1300
-
-이분탐색을 사용하여 다시 풀기.
-<hr>
-
 ## 프로그래머스
 ### level 1
 
@@ -67,8 +59,35 @@ https://programmers.co.kr/learn/courses/30/lessons/64061
 
 ### level 2
 
-방금그곡
+[3차]방금그곡
 https://programmers.co.kr/learn/courses/30/lessons/17683
+
+짝지어 제거하기
+https://programmers.co.kr/learn/courses/30/lessons/12973
+
+다음 큰 숫자
+https://programmers.co.kr/learn/courses/30/lessons/12911
+
+최댓값과 최솟값
+https://programmers.co.kr/learn/courses/30/lessons/12939
+
+최솟값 만들기
+https://programmers.co.kr/learn/courses/30/lessons/12941
+
+N개의 최소공배수
+https://programmers.co.kr/learn/courses/30/lessons/12953
+
+JadenCase 문자열 만들기
+https://programmers.co.kr/learn/courses/30/lessons/12951
+
+피보나치 수
+https://programmers.co.kr/learn/courses/30/lessons/12945
+
+숫자의 표현
+https://programmers.co.kr/learn/courses/30/lessons/12924
+
+올바른 괄호
+https://programmers.co.kr/learn/courses/30/lessons/12909
 
 <hr>
 
